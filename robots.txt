@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deck-patio-builder-houston-tx.netlify.app/sitemap.xml
